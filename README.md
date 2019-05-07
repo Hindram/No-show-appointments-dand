@@ -1,7 +1,6 @@
 # No-show-appointments-dand
 Investigate a Dataset (No-show appointments!) using pandas, numpy and matplotlib.
 
-Investigate a Dataset (No-show appointments!)
 
 In this project, we’re going to investigate medical appointments dataset collected from Brazil. The dataset focused on answering whether the patients show up for their ap- pointment or not. The dataset has multiple characteristics about the patient such as gender, age, insurance & ...etc. Furthermore, the dataset has 110527 rows in total with 14 columns.
 
